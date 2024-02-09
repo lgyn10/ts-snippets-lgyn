@@ -1,0 +1,5 @@
+root: true
+extends: gwyng-lgyn10
+settings:
+  react:
+    version: "18"
