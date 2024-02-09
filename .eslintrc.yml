@@ -1,5 +1,7 @@
 root: true
 extends: gwyng-lgyn
+rules:
+  prettier/prettier: ['error', { 'singleQuote': true, 'printWidth': 500 }]
 settings:
   react:
-    version: "18"
+    version: '18'
