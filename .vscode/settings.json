@@ -1,8 +1,8 @@
 {
   "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": "always", /** eslint가 파일이 저장될 때 자동수정*/
+    "source.fixAll.eslint": "always", 
     "source.organizeImports": "never"
   },
-  "editor.defaultFormatter": "esbenp.prettier-vscode", # 포매터로 프리티어
-  "editor.formatOnSave": true # 포매터가 파일이 저장될 때 자동포맷을 허락
+  "editor.defaultFormatter": "esbenp.prettier-vscode", 
+  "editor.formatOnSave": true 
 }
