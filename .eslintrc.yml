@@ -1,5 +1,5 @@
 root: true
-extends: gwyng-lgyn
+extends: lgyn10-extends-gwyng
 rules:
   prettier/prettier: ['warn', { 'singleQuote': true, 'printWidth': 150 }] # error warn off
 settings:
