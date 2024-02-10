@@ -1,16 +1,16 @@
 {
-  "name": "ts-snippets-lgyn",
+  "name": "ts-snippets-lgyn10",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "lgyn",
+  "author": "lgyn10",
   "license": "ISC",
   "devDependencies": {
     "eslint": "^8.54.0",
-    "eslint-config-gwyng-lgyn": "github:lgyn10/eslint-config-gwyng-lgyn",
+    "eslint-config-lgyn10-extends-gwyng": "github:lgyn10/eslint-config-lgyn10-extends-gwyng",
     "ts-node": "^10.9.1",
     "typescript": "^5.2.2"
   },
