@@ -1,7 +1,7 @@
 root: true
-extends: lgyn10-extends-gwyng
+extends: lgyn10
 rules:
-  prettier/prettier: ['warn', { 'singleQuote': true, 'printWidth': 150 }] # error warn off
+  prettier/prettier: ['warn', { 'singleQuote': true, 'printWidth': 100 }] # error warn off
 settings:
   react:
     version: '18'
